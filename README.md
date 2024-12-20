@@ -70,28 +70,28 @@ UrbanDepot is a smart parking application designed to simplify parking managemen
 
 ### Installation Steps
 1. Clone the repository:
-   
+``` 
 bash
    git clone https://github.com/your-username/urban-depot.git
    cd urban-depot
-
+```
 2. Install dependencies:
    
-bash
+```bash
    npm install
-
+```
 3. Configure Firebase:
    - Initialize Firebase in your project folder:
-     
+```     
 bash
      firebase init
-
+```
    - Connect to your Firebase project.
 4. Start the development server:
-   
+```   
 bash
    npm start
-
+```
 
 ---
 
